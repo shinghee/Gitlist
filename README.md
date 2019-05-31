@@ -1,2 +1,2 @@
-# gitlist
+# Gitlist
 My repository &lt;learning>
